@@ -2,7 +2,7 @@
 - 👀 I’m interested in <B>ML, Precision Medicine and Cheminformatic</B>
 - 🌱 I’m currently learning <B>Cheminformatic</B>
 - 💞️ I’m looking to collaborate on more project about ML
-- 📫 Contact me via tarasri@kku.ac.th <br>
+- 📫 Contact me via email: tarasri@kku.ac.th <br>
 
 Nice to meet you 
 
